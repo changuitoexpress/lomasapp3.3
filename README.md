@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Changuito Express - Delivery Rápido en Lomas y La Vista</title>
+    <title>Changuito Express - Delivery Express en Lomas y La Vista</title>
 
     <link rel="manifest" href="/manifest.json">
 
